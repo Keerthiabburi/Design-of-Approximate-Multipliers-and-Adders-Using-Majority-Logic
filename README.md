@@ -1,0 +1,1 @@
+# Design-of-Approximate-Multipliers-and-Adders-Using-Majority-Logic
